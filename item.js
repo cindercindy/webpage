@@ -29,8 +29,8 @@ document.addEventListener("DOMContentLoaded", function () {
                     "text": item.text,
                     "inLanguage": item.language,
                     "dateCreated": item.cdate,
-                    "datePublished": item.pdate || "Not available"
-                    "url": item.url || "Not available"
+                    "datePublished": item.pdate
+                    "url": item.url
                 };
 
                 // Insert JSON-LD into the <head> of the document
