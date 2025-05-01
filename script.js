@@ -10,10 +10,6 @@ document.addEventListener("DOMContentLoaded", function () {
                     <p><strong>Author:</strong> ${item.author}</p>
                     <p><strong>Description:</strong> ${item.about}</p>
                     <p><strong>Keywords:</strong> ${item.keywords}</p>
-                    <p><strong>Language:</strong> ${item.language}</p>
-                    <p><strong>Created Date:</strong> ${item.cdate}</p>
-                    <p><strong>Published Date:</strong> ${item.pdate}</p>
-                    <p>${item.text}</p>
                     <a href="item-template.html?id=${item.id}">View More</a>
                 `; // Insert item data and link
                 container.appendChild(div); // Add item to the page
