@@ -8,7 +8,6 @@ document.addEventListener("DOMContentLoaded", function () {
                 div.innerHTML = `
                     <h2>${item.name}</h2>
                     <p><strong>Author:</strong> ${item.author}</p>
-                    <p><strong>Description:</strong> ${item.about}</p>
                     <p><strong>Keywords:</strong> ${item.keywords}</p>
                     <a href="item-template.html?id=${item.id}">View More</a>
                 `; // Insert item data and link
