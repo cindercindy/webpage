@@ -16,7 +16,9 @@ document.addEventListener("DOMContentLoaded", function () {
                 document.getElementById("item-created-date").innerText = item.cdate; // Poem creation date
                 document.getElementById("item-published-date").innerText = item.pdate || "Not available";
                 document.getElementById("item-text").innerText = item.text.replace(/\\n/g, '\n'); // Poem text with line breaks
-                document.getElementById("item-url").innerText = item.url || "Not available";
+                document.getElementById("item-url").innerHTML = item.url
+                    ? `<a href="${item.url}" target="_blank">${item.url}</a>`
+                    : "Not available";
 
                 // Create JSON-LD metadata
                 const jsonLd = {
