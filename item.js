@@ -9,7 +9,6 @@ document.addEventListener("DOMContentLoaded", function () {
             if (item) {
                 // Update visible page content
                 document.getElementById("item-title").innerText = item.name; // Poem title
-                document.getElementById("item-image").src = `images/${item.image}`; // Poem image, update if available
                 document.getElementById("item-description").innerText = item.about; // Poem about text
                 document.getElementById("item-author").innerText = item.author; // Poem author
                 document.getElementById("item-keywords").innerText = item.keywords; // Poem keywords
