@@ -14,9 +14,9 @@ document.addEventListener("DOMContentLoaded", function () {
                 document.getElementById("item-keywords").innerText = item.keywords; // Poem keywords
                 document.getElementById("item-language").innerText = item.language; // Poem language
                 document.getElementById("item-created-date").innerText = item.cdate; // Poem creation date
-                document.getElementById("item-published-date").innerContent = item.pdate || "Not available";
+                document.getElementById("item-published-date").innerText = item.pdate || "Not available";
                 document.getElementById("item-text").innerText = item.text.replace(/\\n/g, '\n'); // Poem text with line breaks
-                document.getElementById("item-url").innerContent = item.url || "Not available";
+                document.getElementById("item-url").innerText = item.url || "Not available";
 
                 // Create JSON-LD metadata
                 const jsonLd = {
