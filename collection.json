@@ -588,8 +588,8 @@
     "id": "46",
     "name": "Poem for the Black Bird",
     "author": "Alina Stefanescu",
-    "cdate": "2019",  // Updated to match the publication year
-    "pdate": "2019",  // Updated to match the publication year
+    "cdate": "2019",  
+    "pdate": "2019", 
     "about": "Memory, family, identity",
     "genre": "Free verse",
     "keywords": "memory, family, identity, longing, heritage",
@@ -601,8 +601,8 @@
     "id": "47",
     "name": "For My Friend",
     "author": "Eileen Myles",
-    "cdate": "2007",  // Updated to match the publication year
-    "pdate": "2007",  // Updated to match the publication year
+    "cdate": "2007", 
+    "pdate": "2007", 
     "about": "Friendship, everyday life, reflection",
     "genre": "Free verse",
     "keywords": "friendship, daily life, reflection, longing, memory",
@@ -614,8 +614,8 @@
     "id": "48",
     "name": "Katrina",
     "author": "Patricia Smith",
-    "cdate": "2008",  // Updated to match the publication year
-    "pdate": "2008",  // Updated to match the publication year
+    "cdate": "2008", 
+    "pdate": "2008",  
     "about": "Hurricane Katrina, personification, natural disaster",
     "genre": "Free verse",
     "keywords": "Hurricane Katrina, destruction, personification, storm",
@@ -627,8 +627,8 @@
     "id": "49",
     "name": "Prologue\u2014And Then She Owns You",
     "author": "Patricia Smith",
-    "cdate": "2008",  // Updated to match the publication year
-    "pdate": "2008",  // Updated to match the publication year
+    "cdate": "2008", 
+    "pdate": "2008",  
     "about": "Personification, allure, danger",
     "genre": "Free verse",
     "keywords": "personification, seduction, danger, allure",
@@ -640,8 +640,8 @@
     "id": "50",
     "name": "Undertaker",
     "author": "Patricia Smith",
-    "cdate": "2012",  // Updated to match the publication year
-    "pdate": "2012",  // Updated to match the publication year
+    "cdate": "2012",
+    "pdate": "2012",
     "about": "Grief, funeral rituals, maternal loss",
     "genre": "Free verse",
     "keywords": "mourning, death, funeral, motherhood, loss",
