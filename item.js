@@ -29,7 +29,7 @@ document.addEventListener("DOMContentLoaded", function () {
                     "text": item.text,
                     "inLanguage": item.language,
                     "dateCreated": item.cdate,
-                    "datePublished": item.pdate
+                    "datePublished": item.pdate,
                     "url": item.url
                 };
 
