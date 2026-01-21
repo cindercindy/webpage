@@ -18,5 +18,5 @@ This project was for my Digital Asset Management final project and to help organ
 
 <p align="center">
 List view: <br/>
-<img src="https://imgur.com/a/f19GTGd.png" height="80%" width="80%" alt="Webpage View"/>
+<img src="https://imgur.com/a/f19GTGd" height="80%" width="80%" alt="Webpage View"/>
 <br />
