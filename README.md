@@ -1,4 +1,4 @@
-<h1>Webpage for Digital Library of Poems</h1>
+<h1>Digital Library of Poems</h1>
 
 
 <h2>Description</h2>
